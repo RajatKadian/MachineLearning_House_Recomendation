@@ -1,0 +1,36 @@
+City,listingName,Property Type,Rent,rental_month,parking,bedroom
+Vancouver,Cindy,Any,850.0,3,yes,1
+Vancouver,Flora,Any,1500.0,4,yes,1
+Vancouver,Mr. Wang,Any,850.0,3,no,1
+Vancouver,Ray,Apartment,2700.0,4,yes,1
+Vancouver,Hannah,Apartment,4000.0,6,yes,2
+Richmond,Miss Xu,Apartment,3500.0,5,yes,2
+Richmond,Mr. Peng,Apartment,3600.0,3,yes,4
+Richmond,helen,Any,4500.0,3,yes,5
+Vancouver,Chen Tai,Any,680.0,2,no,1
+Vancouver,hong,Any,1400.0,3,no,1
+Burnaby,Me,Apartment,2900.0,6,yes,1
+Richmond,Johnny Mr. Zhang,Apartment,2200.0,2,yes,1
+Vancouver,Cheng,Apartment,1800.0,5,yes,1
+Vancouver,Cheng,Apartment,4200.0,5,yes,2
+Burnaby,Sam,Apartment,3000.0,3,yes,2
+Burnaby,Jack,Apartment,2800.0,5,yes,2
+Other,me,Any,1200.0,5,no,1
+Richmond,landlord,Any,1200.0,3,no,1
+Other,Liu,Any,1900.0,2,no,2
+Other,Lily,Any,4350.0,4,yes,5
+Other,Cathy,Apartment,2600.0,4,yes,2
+Burnaby,Henry,Apartment,3050.0,2,yes,2
+Vancouver,Frank,Apartment,5000.0,4,yes,3
+Burnaby,John,Any,2500.0,11,no,2
+Other,Mr. Jiang,Any,2850.0,5,no,3
+Vancouver,Linda,Apartment,2895.0,3,yes,2
+Vancouver,Ding,Apartment,1600.0,4,yes,2
+Vancouver,Joshua,Any,1100.0,3,no,2
+Vancouver,Annie,Apartment,4180.0,3,yes,2
+Vancouver,vickie,Apartment,3000.0,7,yes,2
+Vancouver,Ruby,Apartment,2400.0,4,yes,1
+Burnaby,ST,Any,2200.0,4,no,2
+Vancouver,房东,Apartment,3850.0,5,yes,3
+Vancouver,Alan,Apartment,6000.0,5,yes,3
+Vancouver,Lily,Apartment,2400.0,3,no,1
